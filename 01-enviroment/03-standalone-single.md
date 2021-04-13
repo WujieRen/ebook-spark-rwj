@@ -1,4 +1,4 @@
-# Spark On Standalone
+# Spark Standalone单节点模式
 
 ## Prerequisites
 
