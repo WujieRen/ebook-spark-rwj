@@ -4,13 +4,4 @@
 
 源码[下载](http://archive.apache.org/dist/spark/)位置
 
-## 编译过程---
-
-- Windows：git冲突测试，2。
-- Mac：git冲突测试。3
-
-
-
-测试git冲突Windows--4。
-
-测试Git冲突Mac5.
+## 编译过程
