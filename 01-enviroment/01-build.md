@@ -5,3 +5,5 @@
 源码[下载](http://archive.apache.org/dist/spark/)位置
 
 ## 编译过程
+
+- Windows：git冲突测试，2。
