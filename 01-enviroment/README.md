@@ -8,4 +8,4 @@
   - [Spark Standalone Master(HA)]
 - Windows：测试Git同步1...
 - Mac：git修改，测试git同步。
-
+- Mac：git修改，测试同步冲突2。
